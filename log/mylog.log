@@ -1,0 +1,292 @@
+==========================================
+2018-05-29 10:18:59 ods first input begin
+==============================================================
+2018-05-29 10:18:59 first mysql data first input begin
+--------------------------------------------------------------
+table sign_project data at 2018-05-28 first input begin
+table sign_project data at 2018-05-28 first input success to hdfs!!
+table sign_project data at 2018-05-28 already success first input from hdfs to table
+2018-05-29 10:19:57 mysql data all first input table end
+==============================================================
+==============================================================
+2018-05-28 first mysql incremental first input table begin
+--------------------------------------------------------------
+begin incremental first input table sign_evidence data at 2018-05-28
+table sign_evidence data at 2018-05-28 first input success !!
+table sign_evidence data at 2018-05-28 already success first input from hdfs to table
+2018-05-29 10:21:03 mysql data first input incremental table end
+==============================================================
+2018-05-29 10:21:03 run /usr/hadoop/last_scca/first_input/ods_first/mysql_ods_first.sh succces!!
+==============================================================
+2018-05-29 10:21:03 first oracle data first input begin
+--------------------------------------------------------------
+begin first input table CONFIG_APP data at 2018-05-28
+table CONFIG_APP data at 2018-05-28 first input success to hdfs!!
+table CONFIG_APP data at 2018-05-28 already success first input from hdfs to table
+begin first input table SYS_OFFICE data at 2018-05-28
+table SYS_OFFICE data at 2018-05-28 first input success to hdfs!!
+table SYS_OFFICE data at 2018-05-28 already success first input from hdfs to table
+begin first input table SYS_USER data at 2018-05-28
+table SYS_USER data at 2018-05-28 first input success to hdfs!!
+table SYS_USER data at 2018-05-28 already success first input from hdfs to table
+begin first input table WORK_CERT_INFO data at 2018-05-28
+table WORK_CERT_INFO data at 2018-05-28 first input success to hdfs!!
+table WORK_CERT_INFO data at 2018-05-28 already success first input from hdfs to table
+begin first input table WORK_COMPANY data at 2018-05-28
+table WORK_COMPANY data at 2018-05-28 first input success to hdfs!!
+table WORK_COMPANY data at 2018-05-28 already success first input from hdfs to table
+begin first input table WORK_COMPANY_HIS data at 2018-05-28
+table WORK_COMPANY_HIS data at 2018-05-28 first input success to hdfs!!
+table WORK_COMPANY_HIS data at 2018-05-28 already success first input from hdfs to table
+begin first input table WORK_USER data at 2018-05-28
+table WORK_USER data at 2018-05-28 first input success to hdfs!!
+table WORK_USER data at 2018-05-28 already success first input from hdfs to table
+begin first input table WORK_USER_HIS data at 2018-05-28
+table WORK_USER_HIS data at 2018-05-28 first input success to hdfs!!
+table WORK_USER_HIS data at 2018-05-28 already success first input from hdfs to table
+2018-05-29 10:37:23 oracle data all first input table end
+==============================================================
+==============================================================
+2018-05-29 10:37:23 first oracle incremental first input table begin
+--------------------------------------------------------------
+begin first input incremental table WORK_DEAL_INFO data at 2018-05-28
+table WORK_DEAL_INFO data at 2018-05-28 first input success !!
+table WORK_DEAL_INFO data at 2018-05-28 already success first input from hdfs to table
+begin first input incremental table IXIN_DATA data at 2018-05-28
+table IXIN_DATA data at 2018-05-28 first input success !!
+table IXIN_DATA data at 2018-05-28 already success first input from hdfs to table
+2018-05-29 10:43:56 oracle data first input incremental table end
+==============================================================
+2018-05-29 10:43:56 run /usr/hadoop/last_scca/first_input/ods_first/oracle1_ods_first.sh succces!!
+==============================================================
+2018-05-29 10:43:56 first oracle data first input begin
+--------------------------------------------------------------
+begin first input table S_CLIENT data at 2018-05-28
+table S_CLIENT data at 2018-05-28 first input success to hdfs!!
+table S_CLIENT data at 2018-05-28 already success first input from hdfs to table
+begin first input table S_PROJECTCONFIG data at 2018-05-28
+table S_PROJECTCONFIG data at 2018-05-28 first input success to hdfs!!
+table S_PROJECTCONFIG data at 2018-05-28 already success first input from hdfs to table
+2018-05-29 10:45:50 oracle data first input table end
+==============================================================
+==============================================================
+2018-05-29 10:45:50 first oracle incremental first input table begin
+--------------------------------------------------------------
+begin incremental first input table S_EVIDENCE data at 2018-05-28
+table S_EVIDENCE data at 2018-05-28 first input success !!
+table S_EVIDENCE data at 2018-05-28 already success first input from hdfs to table
+2018-05-29 10:47:09 oracle data first input incremental table end
+==============================================================
+2018-05-29 10:47:09 run /usr/hadoop/last_scca/first_input/ods_first/oracle2_ods_first.sh succces!!
+==============================================================
+2018-05-29 10:47:09 first oracle data first input begin
+--------------------------------------------------------------
+begin first input table S_D_QZCS data at 2018-05-28
+table S_D_QZCS data at 2018-05-28 first input success to hdfs!!
+table S_D_QZCS data at 2018-05-28 already success first input from hdfs to table
+begin first input table S_ESEAL_CERT_EC data at 2018-05-28
+table S_ESEAL_CERT_EC data at 2018-05-28 first input success to hdfs!!
+table S_ESEAL_CERT_EC data at 2018-05-28 already success first input from hdfs to table
+begin first input table S_ESEAL_CS data at 2018-05-28
+table S_ESEAL_CS data at 2018-05-28 first input success to hdfs!!
+table S_ESEAL_CS data at 2018-05-28 already success first input from hdfs to table
+begin first input table S_ESEAL_CERT data at 2018-05-28
+table S_ESEAL_CERT data at 2018-05-28 first input success to hdfs!!
+table S_ESEAL_CERT data at 2018-05-28 already success first input from hdfs to table
+2018-05-29 10:51:08 oracle data all first input table end
+==============================================================
+==============================================================
+2018-05-29 10:51:08 first oracle incremental first input table begin
+--------------------------------------------------------------
+begin incremental first input table S_ESEAL data at 2018-05-28
+table S_ESEAL data at 2018-05-28 first input success !!
+table S_ESEAL data at 2018-05-28 already success first input from hdfs to table
+2018-05-29 10:52:56 oracle data first input incremental table end
+==============================================================
+2018-05-29 10:52:56 run /usr/hadoop/last_scca/first_input/ods_first/oracle3_ods_first.sh succces!!
+==============================================================
+2018-05-29 10:52:56 first sqlserver data first input begin
+--------------------------------------------------------------
+begin first input table project data at 2018-05-28
+table project data at 2018-05-28 first input success to hdfs!!
+table project data at 2018-05-28 already success first input from hdfs to table
+begin first input table customer_info data at 2018-05-28
+table customer_info data at 2018-05-28 first input success to hdfs!!
+table customer_info data at 2018-05-28 already success first input from hdfs to table
+begin first input table key_table data at 2018-05-28
+table key_table data at 2018-05-28 first input success to hdfs!!
+table key_table data at 2018-05-28 already success first input from hdfs to table
+2018-05-29 11:28:16 sqlserver data first input table end
+==============================================================
+==============================================================
+2018-05-29 11:28:16 first sqlserver first input incremental table begin
+--------------------------------------------------------------
+begin incremental first input table CertUpdate data at 2018-05-28
+table CertUpdate data at 2018-05-28 first input success !!
+table CertUpdate data at 2018-05-28 already success first input from hdfs to table
+2018-05-29 11:59:20 sqlserver data first input incremental table end
+==============================================================
+2018-05-29 11:59:20 run /usr/hadoop/last_scca/first_input/ods_first/sqlserver_ods_first.sh succces!!
+==========================================
+==========================================
+2018-05-29 11:59:20 ods check first begin
+2018-05-29 11:59:20 Check ods get number
+==========================================
+2018-05-29 11:59:20 get sign_project succces!!
+ods:20 origin:20
+2018-05-29 12:01:29 get sign_evidence succces!!
+ods:90652 origin:90652
+==========================================
+2018-05-29 12:04:52 Check ods get number
+==========================================
+2018-05-29 12:04:52 get CONFIG_APP succces!!
+ods:129 origin:129
+2018-05-29 12:07:00 get SYS_OFFICE succces!!
+ods:47 origin:47
+2018-05-29 12:09:07 get SYS_USER succces!!
+ods:121 origin:121
+2018-05-29 12:11:14 get WORK_CERT_INFO succces!!
+ods:928916 origin:928916
+2018-05-29 12:13:30 get WORK_COMPANY succces!!
+ods:374054 origin:374054
+2018-05-29 12:15:41 get WORK_COMPANY_HIS succces!!
+ods:922008 origin:922008
+2018-05-29 12:18:12 get WORK_USER succces!!
+ods:672896 origin:672896
+2018-05-29 12:20:24 get WORK_USER_HIS succces!!
+ods:923479 origin:923479
+2018-05-29 12:22:39 get IXIN_DATA succces!!
+ods:16305363 origin:16305363
+2018-05-29 12:25:21 get WORK_DEAL_INFO succces!!
+ods:595228 origin:595228
+==========================================
+2018-05-29 12:27:32 Check ods get number
+==========================================
+2018-05-29 12:27:32 get S_CLIENT succces!!
+ods:4 origin:4
+2018-05-29 12:29:39 get S_PROJECTCONFIG succces!!
+ods:3 origin:3
+2018-05-29 12:32:01 get S_EVIDENCE succces!!
+ods:1645 origin:1645
+==========================================
+2018-05-29 12:34:11 Check ods get number
+==========================================
+2018-05-29 12:34:11 get S_D_QZCS succces!!
+ods:2 origin:2
+2018-05-29 12:36:18 get S_ESEAL_CERT succces!!
+ods:5087 origin:5087
+2018-05-29 12:38:24 get S_ESEAL_CERT_EC succces!!
+ods:7317 origin:7317
+2018-05-29 12:40:32 get S_ESEAL_CS succces!!
+ods:0 origin:0
+2018-05-29 12:42:38 get S_ESEAL succces!!
+ods:5705 origin:5705
+==========================================
+2018-05-29 12:44:47 Check ods get number
+==========================================
+2018-05-29 12:44:47 get project succces!!
+ods:100 origin:100
+2018-05-29 12:46:54 get customer_info succces!!
+ods:745158 origin:745158
+2018-05-29 12:49:10 get key_table succces!!
+ods:476153 origin:476153
+2018-05-29 12:51:25 get CertUpdate succces!!
+ods:714341 origin:714341
+==========================================
+2018-05-29 12:55:16 run /usr/hadoop/last_scca/test/ods_test.sh succces!!
+==========================================
+==========================================
+2018-05-29 12:55:16 etl first input begin
+==============================================================
+2018-05-29 12:55:19 first input for etl begin
+cert_dimension first input begin 
+cert_dimension first input success 
+cert_use_info first input begin 
+cert_use_info first input success 
+client_dimension first input begin 
+client_dimension first input success 
+company_dimension first input begin 
+company_dimension first input success 
+customer_dimension first input begin 
+customer_dimension first input success 
+evidence_info first input begin 
+evidence_info first input success 
+i_xin_dimension first input begin 
+i_xin_dimension first input success 
+project_dimension first input begin 
+project_dimension first input success 
+s_d_qzcs_dimension first input begin 
+s_d_qzcs_dimension first input success 
+s_eseal_info first input begin 
+s_eseal_info first input success 
+sign_info first input begin 
+sign_info first input success 
+sys_office_dimension first input begin 
+sys_office_dimension first input success 
+sys_user_dimension first input begin 
+sys_user_dimension first input success 
+user_dimension first input begin 
+user_dimension first input success 
+work_deal_info first input begin 
+work_deal_info first input success 
+2018-05-29 13:29:52 first input for etl end
+==============================================================
+2018-05-29 13:29:52 run /usr/hadoop/last_scca/first_input/etl_first/etl_first.sh succces!!
+==========================================
+==========================================
+2018-05-29 13:29:52 check first begin
+2018-05-29 13:37:07 cert_use_info success!!
+2018-05-29 13:41:30 evidence_info success!!
+2018-05-29 13:48:22 work_deal_info success!!
+2018-05-29 13:53:02 s_eseal_info success!!
+2018-05-29 13:57:06 sign_info success!!
+2018-05-29 13:57:06 run /usr/hadoop/last_scca/test/exeSQL.sh succces!!
+==========================================
+==========================================
+2018-05-29 13:57:06 mid first input begin
+==============================================================
+2018-05-29 13:57:09 cboard table begin
+begin cert_use_cert data at 2018-05-28
+table cert_use_cert data at 2018-05-28 insert success to cboard db!!
+begin cert_use_i_xin data at 2018-05-28
+table cert_use_i_xin data at 2018-05-28 insert success to cboard db!!
+begin cert_use_project data at 2018-05-28
+table cert_use_project data at 2018-05-28 insert success to cboard db!!
+begin cert_use_type data at 2018-05-28
+table cert_use_type data at 2018-05-28 insert success to cboard db!!
+begin evidence_attributes data at 2018-05-28
+table evidence_attributes data at 2018-05-28 insert success to cboard db!!
+begin evidence_cert data at 2018-05-28
+table evidence_cert data at 2018-05-28 insert success to cboard db!!
+begin s_eseal_attributes data at 2018-05-28
+table s_eseal_attributes data at 2018-05-28 insert success to cboard db!!
+begin s_eseal_cert data at 2018-05-28
+table s_eseal_cert data at 2018-05-28 insert success to cboard db!!
+begin sign_attributes data at 2018-05-28
+table sign_attributes data at 2018-05-28 insert success to cboard db!!
+begin sign_project data at 2018-05-28
+table sign_project data at 2018-05-28 insert success to cboard db!!
+begin work_deal_cert data at 2018-05-28
+table work_deal_cert data at 2018-05-28 insert success to cboard db!!
+begin work_deal_company data at 2018-05-28
+table work_deal_company data at 2018-05-28 insert success to cboard db!!
+begin work_deal_office data at 2018-05-28
+table work_deal_office data at 2018-05-28 insert success to cboard db!!
+begin work_deal_project data at 2018-05-28
+table work_deal_project data at 2018-05-28 insert success to cboard db!!
+begin work_deal_status data at 2018-05-28
+table work_deal_status data at 2018-05-28 insert success to cboard db!!
+begin work_deal_type data at 2018-05-28
+table work_deal_type data at 2018-05-28 insert success to cboard db!!
+2018-05-29 14:42:38 cboard insert sccess
+==============================================================
+2018-05-29 14:42:38 run /usr/hadoop/last_scca/first_input/mid_first/etl_mid.sh succces!!
+==========================================
+==========================================
+2018-05-30 00:00:01 ods update begin
+==============================================================
+2018-05-30 00:00:01 mysql data all update begin
+--------------------------------------------------------------
+begin update table sign_project data at 2018-05-29
+table sign_project data at 2018-05-29 all input failed, please check your code !!
+2018-05-30 00:00:40 run /usr/hadoop/last_scca/update/origin_ods/mysql_ods_update.sh failed, please check your code !!

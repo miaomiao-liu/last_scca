@@ -1,0 +1,57 @@
+use ${hiveconf:ods_db};
+create external table WORK_CERT_INFO(
+  `id` double, 
+  `is_master` int, 
+  `issuer_dn` string, 
+  `issuer_hash_md5` string, 
+  `last_trust_device_count` bigint, 
+  `last_trust_device_date` string, 
+  `notafter` string, 
+  `notbefore` string, 
+  `obtained` int, 
+  `product_status` bigint, 
+  `provider` string, 
+  `renewal_date` string, 
+  `renewal_next_id` double, 
+  `renewal_prev_id` double, 
+  `req_buf` string, 
+  `req_buf_type` string, 
+  `req_challenge` string, 
+  `req_comment` string, 
+  `req_nonce` string, 
+  `req_override_validity` bigint, 
+  `req_override_validity_extend` bigint, 
+  `req_transid` string, 
+  `revoke_date` string, 
+  `serialnumber` string, 
+  `sign_buf` string, 
+  `sign_buf_p7` string, 
+  `sign_date` string, 
+  `source` string, 
+  `status` bigint, 
+  `subject_dn` string, 
+  `subject_hash_md5` string, 
+  `suspend_date` string, 
+  `trust_device_count` bigint, 
+  `trust_device_date` string, 
+  `type` string, 
+  `apply_info` double, 
+  `key_sn` string, 
+  `work_user_id` double, 
+  `cert_kmc_rep1` string, 
+  `cert_kmc_rep2` string, 
+  `cert_kmc_rep3` string, 
+  `cert_req_buf_kmc` string, 
+  `cert_req_buf_type_kmc` string, 
+  `cert_serialnumber_kmc` string, 
+  `cert_sign_buf_kmc` string, 
+  `cert_type_kmc` string, 
+  `install_mode` string, 
+  `create_date` string)
+comment 'WORK_CERT_INFO'
+PARTITIONED BY (ymd string)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '\001'
+LINES TERMINATED BY '\n'
+STORED AS TEXTFILE
+LOCATION "${hiveconf:ods_hdfs}/ods_db/WORK_CERT_INFO";
